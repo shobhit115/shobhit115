@@ -63,6 +63,10 @@ const shobhit = {
 
 ---
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/shobhit115/shobhit115/output/github-contribution-grid-snake-dark.svg)
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -161,9 +165,6 @@ learning_path = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/shobhit115/shobhit115/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
