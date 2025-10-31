@@ -13,6 +13,12 @@
 </div>
 
 ---
+<div align="center">
+    
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/shobhit115/shobhit115/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -63,9 +69,6 @@ const shobhit = {
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/shobhit115/shobhit115/output/github-contribution-grid-snake-dark.svg)
 
 ## 📊 GitHub Analytics
 
