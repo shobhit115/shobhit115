@@ -1,6 +1,14 @@
 <div align="center">
 
 # 👋 Hi there, I'm Shobhit Singh
+<div align="center">
+
+<a href="https://shobhit115.vercel.app/">
+  <img src="https://img.shields.io/badge/_VISIT_MY_PORTFOLIO_→-FF4154?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=8B0000" alt="Portfolio Button" width="350" height="70"/>
+</a>
+
+
+</div>
 
 ### 🚀 B.Tech CSE Student | Full Stack Developer | GATE Aspirant | Tech Enthusiast
 
