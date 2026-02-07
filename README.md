@@ -16,7 +16,7 @@
 [![Followers](https://img.shields.io/github/followers/shobhit115?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/shobhit115?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/shobhit115?label=Stars&style=flat-square&color=yellow&logo=github)](https://github.com/shobhit115?tab=repositories)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Learning+DSA+%26+System+Design;GATE+CS+Preparation+2025" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Learning+DSA+%26+System+Design" alt="Typing SVG" />
 
 </div>
 
