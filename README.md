@@ -104,6 +104,5 @@ const shobhit = {
 
 *Thanks for visiting! Feel free to explore my repositories and connect with me!* 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shobhit115.shobhit115)
 
 </div>
