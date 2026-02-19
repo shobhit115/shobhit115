@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/shobhit115/shobhit115/main/banner.svg" />
 </p>
 
-<a href="https://shobhit115.vercel.app/">
-  <img src="https://img.shields.io/badge/🌟_EXPLORE_MY_PORTFOLIO_🌟-00c749?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00c749" alt="Portfolio" width="300" height="50"/>
+ <a href="https://shobhit115.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-%2300c749.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Shobhit's Portfolio" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shobhit-singh-34a745249/))
@@ -13,17 +13,16 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhit115)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobhit115.vercel.app) -->
 
-</div>
 
 
 
-### 🚀 B.Tech CSE Student | Full Stack Developer | GATE Aspirant | Tech Enthusiast
+### 🚀 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐀𝐓𝐄 𝐀𝐬𝐩𝐢𝐫𝐚𝐧𝐭 | 𝐓𝐞𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shobhit115&color=blueviolet&style=flat-square)](https://github.com/shobhit115)
 [![Followers](https://img.shields.io/github/followers/shobhit115?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/shobhit115?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/shobhit115?label=Stars&style=flat-square&color=yellow&logo=github)](https://github.com/shobhit115?tab=repositories)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=01D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Learning+DSA+%26+System+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00c749&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Learning+DSA+%26+System+Design" alt="Typing SVG" />
 
 </div>
 
