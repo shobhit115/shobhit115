@@ -46,10 +46,6 @@
 <div align="center">
   
 ##  About Me
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhit115&theme=tokyonight)
-
 </div>
 
 ```javascript
@@ -62,17 +58,24 @@ const shobhit = {
 };
 ```
 
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhit115&theme=tokyonight)
+</div>
+
+
+
 
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit115&theme=github_dark&utcOffset=5.5" width="300" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit115&theme=github_dark" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit115&theme=github_dark&utcOffset=5.5" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit115&theme=github_dark" width="350" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit115&theme=github_dark" width="300" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit115&theme=github_dark" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit115&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit115&theme=github_dark" width="350" />
 </p>
 
 
