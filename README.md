@@ -20,13 +20,6 @@
 
 </div>
 
-
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/shobhit115/shobhit115/output/github-contribution-grid-snake-dark.svg)
-</div>
-
 <div align = "center">
   
  <a href="https://shobhit115.vercel.app/" target="_blank">
@@ -38,6 +31,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhit115)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobhit115.vercel.app) -->
 </div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/shobhit115/shobhit115/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+
 <div >
 
 
