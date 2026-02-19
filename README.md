@@ -4,14 +4,6 @@
   <img src="https://raw.githubusercontent.com/shobhit115/shobhit115/main/banner.svg" />
 </p>
 
- <a href="https://shobhit115.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-%2300c749.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Shobhit's Portfolio" />
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shobhit-singh-34a745249/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shobhitsinghsingh.2019@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhit115)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobhit115.vercel.app) -->
 
 
 
@@ -24,6 +16,20 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00c749&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Learning+DSA+%26+System+Design" alt="Typing SVG" />
 
+
+
+</div>
+
+<div align = "center">
+  
+ <a href="https://shobhit115.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-%2300c749.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Shobhit's Portfolio" />
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shobhit-singh-34a745249/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shobhitsinghsingh.2019@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhit115)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobhit115.vercel.app) -->
 </div>
 
 <div align="center">
