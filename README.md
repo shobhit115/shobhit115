@@ -1,14 +1,21 @@
 <div align="center" >
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/shobhit115/shobhit115/main/banner.svg" />
 </p>
 
 <a href="https://shobhit115.vercel.app/">
-  <img src="https://img.shields.io/badge/🌟_EXPLORE_MY_PORTFOLIO_🌟-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=312E81" alt="Portfolio" width="300" height="50"/>
+  <img src="https://img.shields.io/badge/🌟_EXPLORE_MY_PORTFOLIO_🌟-00c749?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00c749" alt="Portfolio" width="300" height="50"/>
 </a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shobhit-singh-34a745249/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shobhitsinghsingh.2019@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhit115)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobhit115.vercel.app) -->
 
 </div>
+
+
 
 ### 🚀 B.Tech CSE Student | Full Stack Developer | GATE Aspirant | Tech Enthusiast
 
@@ -28,14 +35,7 @@
 
 <div align="center">
 
-###  Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shobhit-singh-34a745249/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobhit115.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shobhitsinghsingh.2019@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhit115)
-
-</div>
 
 
 <div align="center">
