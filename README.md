@@ -1,7 +1,7 @@
-<div align="center">
-
-# 👋 Hi there, I'm Shobhit Singh
-<div align="center">
+<div align="center" >
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shobhit115/shobhit115/main/banner.svg" />
+</p>
 
 <a href="https://shobhit115.vercel.app/">
   <img src="https://img.shields.io/badge/🌟_EXPLORE_MY_PORTFOLIO_🌟-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=312E81" alt="Portfolio" width="300" height="50"/>
