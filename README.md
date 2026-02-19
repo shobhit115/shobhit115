@@ -20,6 +20,13 @@
 
 </div>
 
+
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/shobhit115/shobhit115/output/github-contribution-grid-snake-dark.svg)
+</div>
+
 <div align = "center">
   
  <a href="https://shobhit115.vercel.app/" target="_blank">
@@ -31,14 +38,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhit115)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobhit115.vercel.app) -->
 </div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/shobhit115/shobhit115/output/github-contribution-grid-snake-dark.svg)
-</div>
-
-
-<div align="center">
+<div >
 
 
 
@@ -47,7 +47,9 @@
   
 ##  About Me
 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhit115&theme=tokyonight)
+
 </div>
 
 ```javascript
@@ -62,6 +64,16 @@ const shobhit = {
 
 
 
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit115&theme=github_dark&utcOffset=5.5" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit115&theme=github_dark" width="300" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit115&theme=github_dark" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit115&theme=github_dark" width="300" />
+</p>
 
 
 <div align="center">
