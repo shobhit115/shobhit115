@@ -109,16 +109,15 @@ const shobhit = {
 <div align="center">
   
 
----
 
-### 💭 Quote of the Day
+## 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00c749&reversal=false&textBg=false&descAlignY=44&descAlign=32&section=footer" width="100%"/>
 
 
 *Thanks for visiting! Feel free to explore my repositories and connect with me!* 
