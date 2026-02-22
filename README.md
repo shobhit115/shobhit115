@@ -81,6 +81,15 @@ const shobhit = {
 
 <div align="center">
 
+## Problem Solving Journey
+
+Consistent practice in Data Structures & Algorithms across platforms.
+
+### LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/shobhit115?theme=dark&font=Abel)
+
+
+
 ## Tech Stack & Tools
 
 ### Languages
