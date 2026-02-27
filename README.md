@@ -1,7 +1,7 @@
 <div align="center" >
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shobhit115/shobhit115/main/banner.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00c749&text=Shobhit%20Singh&animation=scaleIn&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=37" />
 </p>
 
 
