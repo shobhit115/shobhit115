@@ -8,7 +8,7 @@
 
 
 
-### 🚀 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐀𝐓𝐄 𝐀𝐬𝐩𝐢𝐫𝐚𝐧𝐭 | 𝐓𝐞𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
+### 🚀 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐀𝐓𝐄 𝐀𝐬𝐩𝐢𝐫𝐚𝐧𝐭 | 𝐃𝐒𝐀
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shobhit115&color=blueviolet&style=flat-square)](https://github.com/shobhit115)
 [![Followers](https://img.shields.io/github/followers/shobhit115?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/shobhit115?tab=followers)
