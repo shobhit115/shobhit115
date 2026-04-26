@@ -69,13 +69,13 @@ const shobhit = {
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit307&theme=github_dark&utcOffset=5.5" width="350" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit307&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit-307&theme=github_dark&utcOffset=5.5" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit-307&theme=github_dark" width="350" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit307&theme=github_dark" width="350" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit307&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit-307&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit-307&theme=github_dark" width="350" />
 </p>
 
 
