@@ -69,13 +69,13 @@ const shobhit = {
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit115&theme=github_dark&utcOffset=5.5" width="350" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit115&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit307&theme=github_dark&utcOffset=5.5" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit307&theme=github_dark" width="350" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit115&theme=github_dark" width="350" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit115&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit307&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit307&theme=github_dark" width="350" />
 </p>
 
 
@@ -86,7 +86,7 @@ const shobhit = {
 Consistent practice in Data Structures & Algorithms across platforms.
 
 ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/shobhit115?theme=dark&font=Abel)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shobhit307?theme=dark&font=Abel)
 
 
 
