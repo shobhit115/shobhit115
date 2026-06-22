@@ -10,9 +10,9 @@
 
 ### 🚀 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐀𝐓𝐄 𝐀𝐬𝐩𝐢𝐫𝐚𝐧𝐭 | 𝐃𝐒𝐀
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shobhit-307&color=blueviolet&style=flat-square)](https://github.com/shobhit115)
-[![Followers](https://img.shields.io/github/followers/shobhit-307?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/shobhit115?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/shobhit-307?label=Stars&style=flat-square&color=yellow&logo=github)](https://github.com/shobhit115?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=shobhit115&color=blueviolet&style=flat-square)](https://github.com/shobhit115)
+[![Followers](https://img.shields.io/github/followers/shobhit115?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/shobhit115?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/shobhit115?label=Stars&style=flat-square&color=yellow&logo=github)](https://github.com/shobhit115?tab=repositories)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00c749&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Learning+DSA+%26+System+Design" alt="Typing SVG" />
 
@@ -69,13 +69,13 @@ const shobhit = {
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit-307&theme=github_dark&utcOffset=5.5" width="350" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit-307&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shobhit115&theme=github_dark&utcOffset=5.5" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobhit115&theme=github_dark" width="350" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit-307&theme=github_dark" width="350" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit-307&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shobhit115&theme=github_dark" width="350" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shobhit115&theme=github_dark" width="350" />
 </p>
 
 
