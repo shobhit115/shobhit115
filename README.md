@@ -86,7 +86,7 @@ const shobhit = {
 Consistent practice in Data Structures & Algorithms across platforms.
 
 ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/shobhit307?theme=dark&font=Abel)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shobhit115?theme=dark&font=Abel)
 
 
 
